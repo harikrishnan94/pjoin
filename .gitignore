@@ -331,3 +331,8 @@ ASALocalRun/
 
 # Build output for this sample
 *.out
+build/
+out/
+.cache
+.clangd
+compile_commands.json
